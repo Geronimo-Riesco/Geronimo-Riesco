@@ -1,4 +1,4 @@
-## 😄 Here I am, Gerónimo Riesco 👋
+## 😄 Here I am, Gerónimo Riesco <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="40px"> 👋 
 - ⚡ "La lógica te lleva de A a B. La imaginación te llevará a todas partes."
 
 ## Connect with me:
